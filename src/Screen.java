@@ -5,10 +5,10 @@ public class Screen {
 	int rows;
 	String screenName;
 
-	double PRICE_RECLINER = 2000;
-	double PRICE_VIP = 1500;
-	double PRICE_PREMIUM = 1000;
-	double PRICE_REGULAR = 500;
+	double PRICE_RECLINER = 1200.0;
+	double PRICE_VIP = 1000.0;
+	double PRICE_PREMIUM = 750.0;
+	double PRICE_REGULAR = 500.0;
 
 	public Screen() {
 	}
@@ -237,4 +237,5 @@ public class Screen {
             			}
         		}
     	}
+
 }
